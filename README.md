@@ -1,2 +1,2 @@
 # This is first git hub file
-This is really complicated but worth it!
+In this repository, i am going to share all my learning and assignment 
